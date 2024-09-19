@@ -1,0 +1,219 @@
+.top{
+    background-color: rgb(39, 236, 171);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: sticky; top: 10px;
+    
+}
+.top .btn{
+    position: absolute; right: 10px;
+    transform: translate(-140px, -40px);
+    
+    
+}
+.top h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    transform: translate(-350px, 0px);
+}
+.btn1{
+    width: 100px;
+    height: 30px;
+    transform: translate(-40px, 0px);
+    background-color: white;
+    color:rgb(71, 204, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: white;
+}
+
+.btn3{
+    width: 100px;
+    height: 30px;
+    transform: translate(40px, 0px);
+    background-color: white;
+    color:rgb(71, 204, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: white;
+}
+
+.btn2{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    color:rgb(71, 204, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: white;
+}
+
+.center{
+    background-image: url(media/out\ space.jpg!w700wp);
+    height: 400px;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.center h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+.sec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn4{
+    width: 200px;
+    height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color:rgb(42, 248, 179) ;
+    color: white;
+    transform: translate(-20px, 0px);
+}
+.programming{
+    
+}
+
+
+
+.bottom1{
+    background-color:rgb(216, 245, 235);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom1 .ho2{
+    text-align: center;
+    color: rgb(17, 219, 152);
+    
+}
+.card1 h2{
+    color:green;
+}
+.card1 p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card1 img{
+    clip-path:circle();
+    
+}
+.card2 img{
+    clip-path: circle();
+}
+.card1{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 7px;
+    border-color: gray;
+}
+.card2 h2{
+    color:green
+}
+.card2 p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .cards button{
+    background-color: rgb(5, 182, 123);
+    width: 150px;
+    height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    border-color: aquamarine;
+ }
+
+ .cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+ .card2{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 7px;
+    border-color: gray;
+ }
+
+ .card3{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 7px;
+    border-color: gray;
+ }
+ .card3 h2{
+    color: green;
+ }
+.card3 p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .card3 img{
+    clip-path: circle();
+ }
+
+ button:hover{
+    color:white;
+    background-color: white;
+    cursor: pointer;
+ }
+.bottom2{
+    background-image: url(media/out\ space.jpg!w700wp);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.bottom2 h2{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.inputs{
+    transform: translate(370px, 0px);
+    
+    
+}
+.bottom2 input{
+    width: 600px;
+}
+ .msg{
+    height: 100px;
+}
+.btn7{
+    transform: translate(220px, 0px);
+    width: 160px;
+    height: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(22, 218, 152);
+    border-radius: 20px;
+}
+

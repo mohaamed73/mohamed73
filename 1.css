@@ -1,0 +1,41 @@
+h1{
+    text-align: center;    
+    
+    color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    width: 50px;
+    
+}
+
+span{
+        color: green;
+}       
+
+p{
+        text-align: center;
+        font-size: larger;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: black;
+        
+}
+
+.bt{
+        width: 500px;
+        
+        height: 50px;
+        background-color: blue;
+        color: white;
+}
+
+.bt2{
+        height: 50px;
+        width: 500;
+        text-align: center;
+        
+
+}
+
+.bt3{
+        margin: 80px;
+
+}

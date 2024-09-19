@@ -1,0 +1,185 @@
+.part1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.in1{
+    width: 180px;
+    height: 30px;
+    border-radius: 7px;
+    text-align: inherit;
+    background-color: beige;
+    border-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.in2{
+    width: 180px;
+    height: 30px;
+    border-radius: 7px;
+    text-align: inherit;
+    background-color: beige;
+    border-color: blanchedalmond;
+    transform: translate(20px, 0px);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+.sel1{
+    width: 403px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: beige;
+    border-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+.in3{
+    width: 395px;
+    height: 40px;
+    border-radius: 7px;
+    background-color:beige;
+    border-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+.par2{
+    transform: translate(290px, 0px);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+}
+
+.in4{
+    width: 180px;
+    height: 30px;
+    background-color: beige;
+    border-radius: 7px;
+    border-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.sel2{
+    width: 180px;
+    height: 40px;
+    background-color: beige;
+    border-radius: 7px;
+    border-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    transform: translate(30px, 0px);
+}
+.in5{
+    width: 180px;
+    height: 30px;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    border-radius: 7px;
+    border-color: blanchedalmond;
+
+}
+.in6{
+    width: 180px;
+    height: 30px;
+    background-color: beige;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 7px;
+    transform: translate(30px, 0px);
+    border-color: blanchedalmond;
+    
+}
+
+label{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+
+}
+h2{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div1{
+    border: 3px hidden;
+    border-radius: 7px;
+    border-color: beige;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color:white;
+}
+button{
+    width: 200px;
+    height: 30px;
+    background-color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: white;
+    border-radius: 7px;
+}
+.div2{
+    position: absolute;
+    top: 50px; right: 50px;
+    transform: translate(-150px, 0px)
+    
+    
+    
+    
+}
+.div3{
+    position: absolute;
+    top: 5px; right: 5px;
+    transform: translate(-190px, 390px);
+    
+
+
+}
+img{
+    width: 50px;
+    height: 50px;
+    transform: translate(-70px, -210px);
+}
+
+.im1{
+    transform:translate(-120px, -110px)
+}
+ .im2{
+    
+ }
+span{
+    color: purple;
+}
+
+.div2{
+    border:hidden;
+    width: 200px;
+    background-color: white;
+    border-radius: 5px;
+}
+.div3{
+    border: hidden;
+    width: 200px;
+    bottom: 5px;
+    border-left: 20px;
+    border-bottom: 10px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+

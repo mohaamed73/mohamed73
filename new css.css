@@ -1,0 +1,15 @@
+
+
+div{
+    background-color: blueviolet;
+    width: 120px;
+    height: 140px;
+    border-style: solid;
+    initial-value: 50px;
+    transform:skew(10deg);
+   position:absolute;
+   top: 20px; right: 20px;
+   
+}
+
+    

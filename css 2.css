@@ -1,0 +1,51 @@
+.a{
+    text-align: left;
+    display: inline-block;
+    width: 70px;
+}
+#module{
+         font-weight: bold;
+}
+#cop{
+     color:rgb(138, 138, 134,);  
+}
+#ver{
+    color:rgb(138, 138, 134e);
+}
+.b{
+    text-align: right;
+    display: inline-block;
+    width: 70px;
+
+}
+#module{
+    color: blue;
+}
+h1{
+    text-align: center;
+    font-size: 50;
+}
+h4{
+    text-align: center;
+    color: rgb(80, 80, 78);
+}
+.btn{
+    display: inline-block;
+    border-radius: 5px;
+}
+#btn1{
+    text-align: center;
+    border-radius: 5px;
+    background-color: blue;
+    color:white;
+    margin: 0% 0% 0% 45%;
+}
+#btn2{
+    border-radius: 5px;
+}
+h6{
+    text-align: center;
+    color:blue;
+    font-size: medium;
+    
+}

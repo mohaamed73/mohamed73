@@ -1,0 +1,127 @@
+.section1 .top{
+    background-color:rgb(25, 25, 77);
+    padding-left: 30px;
+    
+}
+.section1 .top .par1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transform: translate(1000px, 10px);
+}
+.section1 .top .par2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.btn1{
+    background-color:purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 160px; height: 40px;
+    color: white;
+}
+.section1 .top h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+}
+.underline .bio{
+    border: 1px solid; width: 500px; height: 300px;
+    border-color:grey;
+    position: absolute; right: 50px;
+    background-color: grey;
+    transform: translate(0px, -90px);
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.numbers{
+    transform: translate(250px, -40px);
+    font-size: 1s0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+}
+.par3{
+    transform: translate(0px, -50px);
+}
+.underline .bio h2{
+    position: absolute; right: 10px;
+    font-family:fantasy;
+    transform: translate(-280px, -50px);
+
+}
+.parx{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute; right: 200px;
+    transform: translate(0px, -40px);
+}
+.underline .bio .btn2{
+    width: 290px; height: 40px;
+    background-color:blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.underline .bio input{
+    height: 40px;
+}
+
+.section2 .center{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.img1{
+    transform: translate(-320px, 170px);
+}
+.img2{
+    transform: translate(560px, 0px);
+}
+.section3 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.section3 h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.par24{
+    transform: translate(200px, -150px);
+
+}
+.img3{
+    transform: translate(200px, 0px);
+
+}
+.par25{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transform: translate(490px, -150px);
+}
+.par26{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transform:translate(270px, -190px);
+}
+
+
+
+
+.section6{
+    background-color: rgb(16, 16, 92);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+}
+.btn3{
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.par28{
+    text-align: left;
+    transform: translate(0px, -35px);
+}
+.img4{
+    transform: translate(690px, 0px);
+}

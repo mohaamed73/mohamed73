@@ -1,0 +1,28 @@
+.section1 .top .mainnav{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.top a{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    
+
+    
+    
+    
+
+}
+body{
+    background-color:aquamarine;
+
+}
+.social_media{
+    transform: translate(600px, 0px);
+}
+
+
+    
